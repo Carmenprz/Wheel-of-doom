@@ -4,6 +4,7 @@ Project by Echo Team
 
 ## Link Github Pages
 
+https://carmenprz.github.io/Wheel-of-doom/
 
 ## Team
 
@@ -11,7 +12,7 @@ Project by Echo Team
 - [Carmen ](https://github.com/Carmenprz)
 - [Laura](https://github.com/Nau-crc)
 - [Joseph](https://github.com/JosephCrespin)
-- [vanessa](https://github.com/Quim79)
+- [vanessa](https://github.com/vanessacor)
 
 ## Description
 
